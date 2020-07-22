@@ -1,5 +1,5 @@
 # SendKeys
-Short PowerShell script to loop key-presses, usefull for keeping screen awake
+Short PowerShell script to loop key-presses, useful for keeping screen awake
 
 
 launch elevated PowerShell
